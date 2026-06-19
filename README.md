@@ -1,4 +1,4 @@
-# Tugas Backtracking Permutasi 
+# Tugas Studi Kasus Backtracking Permutasi 
 Analisa Algoritma IF-C
 
 Kelompok 8 :
